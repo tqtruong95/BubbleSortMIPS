@@ -1,2 +1,2 @@
 # BubbleSortMIPS
-Converted a C program of Bubble Sort to MIPS Assembly Language
+Coded Bubble Sort Algorithm in MIPS Assembly Language
