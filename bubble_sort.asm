@@ -1,5 +1,4 @@
 # Tipper Truong
-# CS 147 Homework 6
 # Bubble Sort Algorithm
 # Expected Output --> SwapCount = 6
 # Sorted Array Output --> 1, 2, 3, 4, 5, 6, 8, 9
